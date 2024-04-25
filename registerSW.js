@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/ctrl-alt-elite-chiweta/sw.js', { scope: '/ctrl-alt-elite-chiweta/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/class-25-pwa/sw.js', { scope: '/class-25-pwa/' })})}
